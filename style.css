@@ -1,0 +1,30 @@
+.container {
+    align-items: center;
+    max-width: 300px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(247, 78, 78, 0.1);
+} 
+body{
+    background-image: url('file1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header {
+    text-align: center; 
+    color: rgb(0, 0, 0);
+    background-color:white; 
+    padding:3.5mm 25px ;
+    height:65px;
+}
+.submitButton{
+    cursor:pointer; 
+    background-color: rgb(34, 187, 51);
+ }
+.resultButton {
+    width: 40mm; 
+    background-color: rgb(255, 255, 255); 
+    border-radius: 10px;
+}
